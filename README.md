@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-🌱 I’m currently learning some IaC features, specially Terraform. I'm not a developer....but I consider it quite interesting as a tool for cloud infrastructure automation.
+🔭 I’m currently working on something cool.
+
+🌱 I’m currently learning some IaC features and tools, like Terraform. I'm not a developer....but I consider it's quite interesting as a tool for cloud infrastructure automation.
 <!--
 **juanlu-are/juanlu-are** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
